@@ -2,5 +2,5 @@
 <br>
 <br>
 <br><b>This is a beginner level project for aspiring web developers . created using html,css and js</b>
-<br><b>Author: Argha</b>
+<br><b>Author- Argha</b>
 
